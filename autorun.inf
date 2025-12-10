@@ -6,10 +6,11 @@ open=setup.exe
 [Setting]
 Compact=1
 SkipSettings=0
-UserName=
-PCName=
+UserName=user
+PCName=pc
 ; без ключа не работает
 
 [Key]
 Name=grafingl
+
 Key=A924AFC8-1646C148-B3FF3574
