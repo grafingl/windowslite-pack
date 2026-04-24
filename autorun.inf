@@ -1,5 +1,5 @@
 [AutoRun]
-icon=setup.exe,0
+icon=setup.exe
 open=setup.exe
 
 ; без ключа не работает
@@ -12,5 +12,4 @@ PCName=pc
 
 [Key]
 Name=grafingl
-
 Key=A924AFC8-1646C148-B3FF3574
